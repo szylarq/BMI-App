@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="mass_label_metric">Mass [kg]</string>
+    <string name="height_label_metric">Height [cm]</string>
+    <string name="mass_label_imperial">Mass [lbs]</string>
+    <string name="height_label_imperial">Height [in]</string>
+
+    <string name="count_bmi_button">Count</string>
+
+    <string name="empty_value_error">Value needed!</string>
+    <string name="incorrect_value_error">Incorrect value!</string>
+
+    <string name="metric_item">Metric units</string>
+    <string name="imperial_item">Imperial units</string>
+
+    <string name="about_author">About author</string>
+
+    <string name="name_surname">Piotr Szylar</string>
+
+    <string name="info_about_me">10.05.1997 \n ID: 235725 \n Applied Computer Science \n Politechnika Wrocławska</string>
+
+    <string name="bmi_details_title">BMI Classification</string>
+
+    <string name="bmi_value_label">Your BMI value is:</string>
+</resources>
